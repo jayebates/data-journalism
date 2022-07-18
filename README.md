@@ -1,1 +1,3 @@
-# data-journalism
+# data-journalism 
+Hello! My name is Jaye and I am from the south shore of Long Island. My profile picture is of one of my dogs, Sadie. She's a 7-year-old white Labrodor who loves water and being out on our boat (as you can probably tell from her huge smile!) I have one other dog, a brown 11-year-old chihuahua named Desi. Desi has the biggest and most affectionate personality I've ever seen in any dog, not even just small dogs! 
+I am very excited to be using GitHub because I think learning to code is not only a valuable skill to add to your resume, but it is a skill that will only become more and more important in setting yourself apart from other caididates for a job or internship because using technology is a required skill that isn't going anywhere anytime soon.
