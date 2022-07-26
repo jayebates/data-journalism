@@ -8,7 +8,6 @@ Textual Description: This infographic shows the distribution of the five most po
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Ak4dGARsZabE1Ae1luEQanbz2sDfW56i7O9S8q9L-
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1GDJHnB1chGuXTjTz7bXS7E2Si-bwk0tMuP1y76Gzcds&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 ![EnrollmentPercentages](https://github.com/jayebates/data-journalism/blob/main/EnrollmentPercentages.png?raw=true)
-![alt tag] (https://raw.githubusercontent.com/jayebates/EnrollmentPercentages/main/path/to/img.png?raw=true)
 ![EnrollmentPercentages] (https://jayebates.github.io/EnrollmentPercentages.png)
 ![SmartphoneMarketShare](https://user-images.githubusercontent.com/109554579/181050863-731dfa4b-0dc7-42aa-9fd2-d7920ee11d68.png)
 ![SmartphoneMarketShare] (https://raw.githubusercontent.com/jayebates/SmartphoneMarketShare/branch/path/to/img.png?raw=true)
