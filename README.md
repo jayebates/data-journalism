@@ -19,3 +19,5 @@ In the scatter plot of the Self-reported Life Satisfaction vs GDP per capita in 
 ![SuperbowlVIewship2](https://github.com/jayebates/jayebates.github.io/blob/main/SuperbowlVIewship2.png?raw=true)
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1s5-dNjSwMGSqg2ShgUbtX7bDqd2Z-uY&ehbc=2E312F" width="640" height="480"></iframe>
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1l3hA8vFDTPOue9M2z4VX_oxCKquBtn8&ehbc=2E312F" width="640" height="480"></iframe>
+Title: Shark Bites on Long Island in Summer 2022, so far.
+Textual Description: This interactive map shows the six shark bite reports from Long Island so far this summer. There is a description to each event and the victim and the location, as well as an image accompanying each entry on the map itself.
