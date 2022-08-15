@@ -7,20 +7,32 @@ Source: Lehigh University Data Center
 Textual Description: This infographic shows the distribution of the five most popular majors in Rauch Business Center in Spring 2022, along with the percentage of their populatiry among all of the other business majors, combined. I disregarded students in the College of Business who were "Undeclared," which was about 800 students of the 1,524. I got this data from Lehigh University's Data Center (https://oirsa.lehigh.edu/majors), on which I refined the data shown to only within the College of Business and only among undergraduate students, removing graduate students. I added these filters to get an unobstructed view of the majors that had the highest level of enrollment in the Spring 2022 semester. The key findings of my data was that, among the five most popular business majors (Finance, Business Information Systems, Accounting, Economics, and Management) Finance was the most popular, making up about 25% of enrollment in the College of Business overall, including the 800 studens in the College of Business who are undeclared.
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Ak4dGARsZabE1Ae1luEQanbz2sDfW56i7O9S8q9L-
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1GDJHnB1chGuXTjTz7bXS7E2Si-bwk0tMuP1y76Gzcds&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+
 **Enrollment Percentages**
 ![EnrollmentPercentages](https://github.com/jayebates/jayebates.github.io/blob/13749a719f294fcdd8c7e488091509f54554a213/EnrollmentPercentages.png?raw=true)
 ![EnrollmentPercentages](https://jayebates.github.io/EnrollmentPercentages.png)
 ![EnrollmentPercentages](jayebates.github.com/data-journalism/img/EnrollmentPercentages.jpg)
 This bar chart shows the percentages of enrollment in each of Lehigh's colleges as of Fall 2021. This information came from Lehigh University's Data Center. Arts & Sciences was the most enrolled-in college as of Fall 2021, holding just about 40% of Undergraduate Enrollment. Arts & Sciences is followed by Engineering & Applicable Sciences and the College of Business, whose enrollment percentages are less than 1% apart. The college with the lowest enrollment is the General College Division with only .1% of Undergraduate Enrollment. I used a bar chart on Chartbuilder and converted the data into percentages of a whole to make the data story be visually easy to understand and quickly understandable.
+
+                                                                                                                                              
+
 **Smartphone Market Share**
 ![SmartphoneMarketShare](https://github.com/jayebates/jayebates.github.io/blob/f40c5a7b54f696ff6f541c38443d14ca0c7dae25/SmartphoneMarketShare.png?raw=true)
 ![SmartphoneMarketShare](https://raw.githubusercontent.com/jayebates/SmartphoneMarketShare/branch/path/to/img.png?raw=true)
 ![SmartphoneMarketShare](https:/ /jayebates.github.io/SmartphoneMarketShare.png)
 This chart shows the top 5 brands with the highest market share in the smartphone market. Samsung and Apple hold first and second places, with about 27% and 26&, respectively. The other three brands are Chinese companies which I had never heard of. This was surprising to me because I thought that there would be other recognizable names on this list such as Google. Since today's world is one that seems to require being "plugged in" at all times, the brands that sell the most smartphones are arguably some of the most influential brands in the world, controlling what most people would say is the item they own that they could not live without.
-![LineChart](https://github.com/jayebates/jayebates.github.io/blob/main/LineChart.png?raw=true)
-![ScatterPlot](https://github.com/jayebates/jayebates.github.io/blob/main/ScatterPlot.png?raw=true)
+
+    **Line Chart of Enrollment in the Top 3 Colleges 2017-2021**    
+        ![LineChart](https://github.com/jayebates/jayebates.github.io/blob/main/LineChart.png?raw=true)
+        
+
+        **Scatter Plot of Life Satisfaction and GDP**
+        ![ScatterPlot](https://github.com/jayebates/jayebates.github.io/blob/main/ScatterPlot.png?raw=true)
 In the scatter plot of the Self-reported Life Satisfaction vs GDP per capita in 2017 among many countries, the relationship I noticed in the data was in the highest-ranked countries in Life Satisfaction (Luxembourg, Ireland and Switzerland), the GDP was the highest. This means to me that in economically stable countries such as these, citizens are allowed to and have the oppurtunity to think past tomorrow, and to make purchases, plans, families, and careers that make them happy, not just as a mehtod to survive but to truly live happily. The United States ranked fourth on this list, which seemed like a place that makes sense to me. Despite there being many people in America who are happy and stable, the population of those living in poverty, addiction, homelessness, being abused, and many others, can not be ignored in the data.
-![SuperbowlVIewship2](https://github.com/jayebates/jayebates.github.io/blob/main/SuperbowlVIewship2.png?raw=true)
+
+    **SuperBowl Viewership**    
+        ![SuperbowlVIewship2](https://github.com/jayebates/jayebates.github.io/blob/main/SuperbowlVIewship2.png?raw=true)
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1s5-dNjSwMGSqg2ShgUbtX7bDqd2Z-uY&ehbc=2E312F" width="640" height="480"></iframe>
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1l3hA8vFDTPOue9M2z4VX_oxCKquBtn8&ehbc=2E312F" width="640" height="480"></iframe>
 Title: Shark Bites on Long Island in Summer 2022, so far.
